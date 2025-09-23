@@ -1,0 +1,15 @@
+[
+    {
+        "user_id" : "12345",
+        "name " : "Debashish Sahu",
+        "hashed_password" : "123Password",
+        "tickets_booked" : [
+            {
+                "source" : "delhi",
+                "destination" : "odisha",
+                "date_of_travel" : "2023-08-07"
+            }
+        ]
+    },
+    {}
+]
