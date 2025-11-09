@@ -1,0 +1,13 @@
+import java.applet.Applet;
+import java.awt.Graphics;
+
+/*
+<applet code="SimpleApplet" width=400 height=200>
+</applet>
+*/
+
+public class SimpleApplet extends Applet {
+    public void paint(Graphics g) {
+        g.drawString("Welcome to Java Applet", 100, 100);
+    }
+}
